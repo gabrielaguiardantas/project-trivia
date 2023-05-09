@@ -13,6 +13,8 @@ Décimo quarto projeto do curso de desenvolvimento Web da Trybe, oitavo projeto 
 
 https://github.com/gabrielaguiardantas/project-trivia/assets/110852595/0ebea481-22da-4fbc-96af-ece17b86d85c
 
+Obs.: O trybe-publisher bugou o funcionamento de parte da aplicação (verificarei posteriormente).
+
 ## Features implementadas: ##
 
 ![features-project14](https://github.com/gabrielaguiardantas/project-trivia/assets/110852595/111e5db8-301a-4bec-99dc-c5b31ffc815a)
