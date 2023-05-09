@@ -1,10 +1,11 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Jogo de Trivia #
+
+Décimo quarto projeto do curso de desenvolvimento Web da Trybe, oitavo projeto do módulo de FrontEnd e segundo em grupo. Nosso grupo 17 teve como integrantes: Gabriel Aguiar Dantas (eu), [Bernardo Martorano](https://github.com/bermartorano), [Felipe Gouveia](https://github.com/fgouveiase), [Thiago Picorelli](https://github.com/thiagopicorelli), [Raul Magno](https://github.com/raullmagno) e [Pedro Henrique](Github não encontrado). Desenvolvemos uma aplicação baseada no Jogo Trivia (tipo um show do milhão americano), utilizando React e Redux. Conhecimentos principais desenvolvidos e aperfeiçoados nesse projeto:
+
+- React
+- Redux
+- Actions Assíncronas
+- Testes em React
+
+# Demonstração: #
+
